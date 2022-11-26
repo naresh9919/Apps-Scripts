@@ -1,0 +1,1 @@
+https://www.cyberithub.com/setup-kubernetes-cluster-on-ec2-instance-using-kops/
